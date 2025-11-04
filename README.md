@@ -7,6 +7,7 @@ A Data Science Enthusiast
 - 📫 How to reach me: chirag.sharma1808@gmail.com
 
 - 🚀 Languages & Tools
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
