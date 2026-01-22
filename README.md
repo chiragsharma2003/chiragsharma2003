@@ -1,6 +1,6 @@
 ## Hi there 👋, I'am Chirag Sharma
 
-A Data Science Enthusiast
+A Tech Explorer
 
 - 🎓 B.Tech in Artificial Intelligence and Data Science
 
